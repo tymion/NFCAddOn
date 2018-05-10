@@ -1,4 +1,4 @@
-update=pią, 13 kwi 2018, 12:05:08
+update=wto, 8 maj 2018, 14:52:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=/home/r.tyminski/Data/Git/NFCAddOn/NFCAddOnProject;/home/r.tyminski/Data/Git/NFCAddOn;/home/r.tyminski/Data/Git/Samsung/muxpi/hw/MuxPi add-on template
+LibDir=/home/r.tyminski/Data/Git/NFCAddOn/NFCAddOnProject;/home/r.tyminski/Data/Git/NFCAddOn;/home/r.tyminski/Data/Git/Samsung/muxpi/hw/MuxPi add-on template;/home/r.tyminski/Data/Git/kicad/lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -63,3 +63,4 @@ LibName31=contrib
 LibName32=valves
 LibName33=NFCAddOn
 LibName34=MuxPi_addon
+LibName35=NXP
