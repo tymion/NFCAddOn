@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NFCAddOn)(type Legacy)(uri ${KIPRJMOD}/NFCAddOn.lib)(options "")(descr ""))
+  (lib (name MuxPi_addon)(type Legacy)(uri "/media/r.tyminski/data/Git/Samsung/muxpi/hw/MuxPi add-on template/MuxPi_addon.lib")(options "")(descr ""))
+)
